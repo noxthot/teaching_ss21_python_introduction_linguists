@@ -6,7 +6,7 @@ Snippets for preparation of a ~12 hours introductory python course for linguists
 	
 ## language_detection
 	Compare letter frequencies of loaded text document and compare to "known" letter distributions.
-	Use levenshtein distance to find the closes match. This example is just for teaching purposes
+	Use levenshtein distance to find the closest match. This example is just for teaching purposes
 	and neither best practice nor algorithmic recommendation.
 	
 ## sentiment_analysis_movies
